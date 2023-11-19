@@ -51,6 +51,31 @@ function App() {
           </div>
         </div>
       </section>
+
+      <footer>
+        <h4>Message me to Purchase</h4>
+        <p>Stitch with Mik</p>
+        <div>
+          <a
+            href="https://www.instagram.com/stitchwithmik"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <i class="bi bi-instagram"></i>
+          </a>
+          <a
+            href="https://www.facebook.com/stitchwithmik"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <i class="bi bi-facebook"></i>
+          </a>
+        </div>
+        <p>
+          Payment via Etransfer or Cash <br />
+          Shipping Available
+        </p>
+      </footer>
     </div>
   );
 }
