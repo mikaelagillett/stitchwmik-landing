@@ -10,8 +10,36 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: black;
+  margin: 30px;
 }
-
+h1,
+h2,
+h4 {
+  font-family: "EB Garamond", serif;
+  font-weight: 600;
+}
+h1 {
+  font-size: 75px;
+}
+h3,
+p,
+em,
+.btn {
+  font-family: "Open Sans", sans-serif;
+}
+h3 {
+  text-transform: uppercase;
+  font-size: 20px;
+}
+i {
+  color: black;
+  font-size: 40px;
+  margin: 30px;
+}
+.App-header h3 {
+  color: rgba(0, 0, 0, 75%);
+  margin: 10px;
+}
 .product-categories {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -35,11 +63,24 @@
   transform: translate(-50%, -50%);
   background-color: rgba(255, 255, 255, 80%);
   width: 65%;
+  padding: 15px 0px;
 }
 .product h3 {
-  text-transform: uppercase;
   height: 35px;
+  font-size: 20px;
+  height: 20px;
+  margin: 0;
 }
-i {
-  color: black;
+footer {
+  padding: 30px;
+}
+footer h4 {
+  font-size: 35px;
+}
+footer p {
+  font-size: 20px;
+  margin: 0;
+}
+footer div {
+  margin-bottom: 10px;
 }

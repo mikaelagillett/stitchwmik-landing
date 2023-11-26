@@ -1,0 +1,39 @@
+section {
+  padding: 30px;
+}
+section h2 {
+  font-size: 45px;
+}
+.hats,
+.coasters,
+.stickers {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.card {
+  max-width: 18rem;
+  display: inline-block;
+}
+.card-img-top {
+  aspect-ratio: 2/3;
+  object-fit: cover;
+}
+.carousel img {
+  aspect-ratio: 2/3;
+  object-fit: cover;
+}
+.hats .green {
+  color: green;
+}
+.hats .orange {
+  color: orange;
+}
+.dim {
+  filter: brightness(80%);
+}
+.coasters em,
+.stickers em {
+  font-family: "EB Garamond", serif;
+  font-weight: 600;
+  font-size: 15px;
+}
