@@ -6,7 +6,7 @@ import "./Products.css";
 
 function Hats() {
   return (
-    <section className="products">
+    <section className="products" id="hats">
       <h2>Hats</h2>
       <div className="hats">
         <div className="card">

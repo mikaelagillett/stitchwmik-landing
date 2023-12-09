@@ -6,7 +6,7 @@ import "./Products.css";
 
 function KeyFobs() {
   return (
-    <section className="products">
+    <section className="products" id="fobs">
       <h2>Key Fobs</h2>
       <div className="hats">
         <div className="card">

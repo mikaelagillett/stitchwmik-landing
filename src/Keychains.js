@@ -4,10 +4,12 @@ import keychain2 from "./images/keychain(2).png";
 import keychain3 from "./images/keychain(3).png";
 import keychain4 from "./images/keychain(4).png";
 import "./Products.css";
+import "./Keychains.css";
+import KeychainSelect from "./KeychainSelect";
 
 function Keychains() {
   return (
-    <section className="products">
+    <section className="products" id="keychains">
       <h2>Keychains</h2>
       <div className="keychains">
         <div className="card">
@@ -76,10 +78,51 @@ function Keychains() {
           </div>
           <div className="card-body">
             <h4 className="card-title"> Keychains</h4>
-            <p className="card-text">
-              {" "}
-              Inventory: 5 <br /> $10
+            <p className="card-text"> Inventory: </p>
+            <p class="d-inline-flex gap-1 page-buttons">
+              <a
+                class="btn btn-dark"
+                data-bs-toggle="collapse"
+                href="#multiCollapseExample1"
+                role="button"
+                aria-expanded="false"
+                aria-controls="multiCollapseExample1"
+              >
+                Page 1
+              </a>
+              <a
+                class="btn btn-dark"
+                data-bs-toggle="collapse"
+                href="#multiCollapseExample2"
+                role="button"
+                aria-expanded="false"
+                aria-controls="multiCollapseExample2"
+              >
+                Page 2
+              </a>
+              <a
+                class="btn btn-dark"
+                data-bs-toggle="collapse"
+                href="#multiCollapseExample3"
+                role="button"
+                aria-expanded="false"
+                aria-controls="multiCollapseExample3"
+              >
+                Page 3
+              </a>
+              <a
+                class="btn btn-dark"
+                data-bs-toggle="collapse"
+                href="#multiCollapseExample4"
+                role="button"
+                aria-expanded="false"
+                aria-controls="multiCollapseExample4"
+              >
+                Page 4
+              </a>
             </p>
+            <KeychainSelect />
+
             <a href="/" className="btn btn-dark">
               DM to Purchase
             </a>

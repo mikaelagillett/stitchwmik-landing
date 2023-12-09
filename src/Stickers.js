@@ -17,7 +17,7 @@ import "./Products.css";
 
 function Stickers() {
   return (
-    <section className="products">
+    <section className="products" id="stickers">
       <h2>Stickers</h2>
       <div className="stickers">
         <div className="card">

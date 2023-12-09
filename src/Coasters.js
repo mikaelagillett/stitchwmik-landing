@@ -9,7 +9,7 @@ import "./Products.css";
 
 function Coasters() {
   return (
-    <section className="products">
+    <section className="products" id="coasters">
       <h2>Coasters</h2>
       <div className="coasters">
         <div className="card">

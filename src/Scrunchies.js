@@ -7,7 +7,7 @@ import "./Products.css";
 
 function Scrunchies() {
   return (
-    <section className="products">
+    <section className="products" id="scrunchies">
       <h2>Scrunchies</h2>
       <div className="hats">
         <div className="card">
