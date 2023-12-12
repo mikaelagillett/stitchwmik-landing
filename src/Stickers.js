@@ -28,7 +28,7 @@ function Stickers() {
               {" "}
               Inventory: 14 <br /> $2.50
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -45,7 +45,7 @@ function Stickers() {
               {" "}
               Inventory: 13 <br /> $2.50
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -63,7 +63,7 @@ function Stickers() {
               Inventory: 19
               <br /> $2.50
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -76,7 +76,7 @@ function Stickers() {
               {" "}
               Inventory: 22 <br /> $2.50
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -89,7 +89,7 @@ function Stickers() {
               {" "}
               Inventory: 14 <br /> $2
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -102,7 +102,7 @@ function Stickers() {
               {" "}
               Inventory: 12 <br /> $2
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -115,7 +115,7 @@ function Stickers() {
               {" "}
               Inventory: 12 <br /> $2
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -128,7 +128,7 @@ function Stickers() {
               {" "}
               Inventory: 15 <br /> $1
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -141,7 +141,7 @@ function Stickers() {
               {" "}
               Inventory: 10 <br /> $2.50
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -157,7 +157,7 @@ function Stickers() {
               {" "}
               Inventory: 3 <br /> $2
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -173,7 +173,7 @@ function Stickers() {
               {" "}
               Inventory: 3 <br /> $2
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -189,7 +189,7 @@ function Stickers() {
               {" "}
               Inventory: 3 <br /> $2
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -202,7 +202,7 @@ function Stickers() {
               {" "}
               Inventory: 3 <br /> $3
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -219,7 +219,7 @@ function Stickers() {
               {" "}
               Inventory: 3 <br /> $3
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>

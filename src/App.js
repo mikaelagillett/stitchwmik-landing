@@ -70,7 +70,7 @@ function App() {
       <Top />
       <Scrunchies />
       <Top />
-      <footer>
+      <footer id="contact">
         <h4>Message me to Purchase</h4>
         <p>
           Stitch with Mik on Facebook and Instagram <br /> or email me: <br />{" "}

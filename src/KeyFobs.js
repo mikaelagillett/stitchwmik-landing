@@ -8,7 +8,7 @@ function KeyFobs() {
   return (
     <section className="products" id="fobs">
       <h2>Key Fobs</h2>
-      <div className="hats">
+      <div className="fobs">
         <div className="card">
           <img src={ravyn} className="card-img-top" alt="hohoho grey beanie" />
           <div className="card-body">
@@ -17,7 +17,7 @@ function KeyFobs() {
               {" "}
               Inventory: 6 <br /> $10
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -34,7 +34,7 @@ function KeyFobs() {
               {" "}
               Inventory: 1 <br /> $10
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -52,7 +52,7 @@ function KeyFobs() {
               Inventory: 2
               <br /> $8
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -65,7 +65,7 @@ function KeyFobs() {
               {" "}
               Inventory: 7 <br /> $8
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>

@@ -9,7 +9,7 @@ function Scrunchies() {
   return (
     <section className="products" id="scrunchies">
       <h2>Scrunchies</h2>
-      <div className="hats">
+      <div className="scrunchies">
         <div className="card">
           <img src={ravyn} className="card-img-top" alt="hohoho grey beanie" />
           <div className="card-body">
@@ -18,7 +18,7 @@ function Scrunchies() {
               {" "}
               Inventory: 1 <br /> $8
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -35,7 +35,7 @@ function Scrunchies() {
               {" "}
               Inventory: 2 <br /> $8
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -48,7 +48,7 @@ function Scrunchies() {
               {" "}
               Inventory: 2 <br /> $8
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -66,7 +66,7 @@ function Scrunchies() {
               Inventory: 3
               <br /> $5
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -79,7 +79,7 @@ function Scrunchies() {
               {" "}
               Inventory: 2 <br /> $5
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>

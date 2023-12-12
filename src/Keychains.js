@@ -123,7 +123,7 @@ function Keychains() {
             </p>
             <KeychainSelect />
 
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>

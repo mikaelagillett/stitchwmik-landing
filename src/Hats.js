@@ -17,7 +17,7 @@ function Hats() {
               {" "}
               Inventory: 5 <br /> $10
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -30,7 +30,7 @@ function Hats() {
               {" "}
               Inventory: 4 <br /> $10
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -46,7 +46,7 @@ function Hats() {
               <span className="orange">2</span>
               <br /> $10
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -59,7 +59,7 @@ function Hats() {
               {" "}
               Inventory: 5 <br /> $10
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
