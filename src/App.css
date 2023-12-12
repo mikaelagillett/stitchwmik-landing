@@ -48,6 +48,7 @@ i {
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
 }
+
 .product-categories img {
   object-fit: cover;
   height: 100%;
@@ -86,4 +87,33 @@ footer p {
 }
 footer div {
   margin-bottom: 10px;
+}
+
+@media (max-width: 960px) {
+  .product-categories {
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+  }
+  .product .img-overlay {
+    width: 40%;
+  }
+  .product h3 {
+    font-size: 15px;
+    height: 15px;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+  footer h4 {
+    font-size: 28px;
+  }
+  footer p {
+    font-size: 14px;
+  }
+  .btn {
+    max-width: 80vw;
+  }
 }
