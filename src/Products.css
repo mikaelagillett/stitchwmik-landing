@@ -46,6 +46,6 @@ section h2 {
   .stickers,
   .fobs,
   .scrunchies {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 }
