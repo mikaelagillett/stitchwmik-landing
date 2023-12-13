@@ -13,7 +13,11 @@ function Coasters() {
       <h2>Coasters</h2>
       <div className="coasters">
         <div className="card">
-          <img src={lgwavy} className="card-img-top" alt="hohoho grey beanie" />
+          <img
+            src={lgwavy}
+            className="card-img-top"
+            alt="red and pink wavy designed fluffy coaster"
+          />
           <div className="card-body">
             <h4 className="card-title">
               {" "}
@@ -24,7 +28,7 @@ function Coasters() {
               {" "}
               Inventory: 1 <br /> $10
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -33,7 +37,7 @@ function Coasters() {
           <img
             src={lgsmiley}
             className="card-img-top dim"
-            alt="hohoho grey beanie"
+            alt="red and white smiley face designed fluffy coaster"
           />
           <div className="card-body">
             <h4 className="card-title">
@@ -45,7 +49,7 @@ function Coasters() {
               {" "}
               Inventory: 4 <br /> $10
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -54,7 +58,7 @@ function Coasters() {
           <img
             src={smsmiley}
             className="card-img-top"
-            alt="hohoho grey beanie"
+            alt="red and white smiley face designed fluffy coaster"
           />
           <div className="card-body">
             <h4 className="card-title"> Red Smiley Car Coaster</h4>
@@ -63,7 +67,7 @@ function Coasters() {
               Inventory: 2
               <br /> $5
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -72,7 +76,7 @@ function Coasters() {
           <img
             src={smwsmiley}
             className="card-img-top"
-            alt="hohoho grey beanie"
+            alt="white and red smiley face designed fluffy coaster"
           />
           <div className="card-body">
             <h4 className="card-title"> White Smiley Car Coaster</h4>
@@ -80,7 +84,7 @@ function Coasters() {
               {" "}
               Inventory: 1 <br /> $5
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -89,7 +93,7 @@ function Coasters() {
           <img
             src={smpsmiley}
             className="card-img-top"
-            alt="hohoho grey beanie"
+            alt="white and black pumpkin face designed fluffy coaster"
           />
           <div className="card-body">
             <h4 className="card-title"> Pumpkin Car Coaster</h4>
@@ -97,7 +101,7 @@ function Coasters() {
               {" "}
               Inventory: 1 <br /> $3
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>
@@ -106,7 +110,7 @@ function Coasters() {
           <img
             src={smosmiley}
             className="card-img-top"
-            alt="hohoho grey beanie"
+            alt="white and ornage smiley face designed fluffy coaster"
           />
           <div className="card-body">
             <h4 className="card-title"> Orange Smiley Car Coaster</h4>
@@ -114,7 +118,7 @@ function Coasters() {
               {" "}
               Inventory: 1 <br /> $3
             </p>
-            <a href="/" className="btn btn-dark">
+            <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>
           </div>

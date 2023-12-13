@@ -10,7 +10,11 @@ function KeyFobs() {
       <h2>Key Fobs</h2>
       <div className="fobs">
         <div className="card">
-          <img src={ravyn} className="card-img-top" alt="hohoho grey beanie" />
+          <img
+            src={ravyn}
+            className="card-img-top"
+            alt="black velvet wristlet/keyfobs with a variety of hardware"
+          />
           <div className="card-body">
             <h4 className="card-title"> Ravyn Scrunchie KeyFob</h4>
             <p className="card-text">
@@ -26,7 +30,7 @@ function KeyFobs() {
           <img
             src={scarlet}
             className="card-img-top"
-            alt="hohoho grey beanie"
+            alt="red velvet wristlet/keyfobs with a variety of hardware"
           />
           <div className="card-body">
             <h4 className="card-title"> Scarlet Scrunchie KeyFob</h4>
@@ -43,7 +47,7 @@ function KeyFobs() {
           <img
             src={tapestry}
             className="card-img-top"
-            alt="hohoho grey beanie"
+            alt="black and white patterned wristlet/keyfobs with a variety of hardware"
           />
           <div className="card-body">
             <h4 className="card-title"> Tapestry KeyFob</h4>
@@ -58,7 +62,11 @@ function KeyFobs() {
           </div>
         </div>
         <div className="card">
-          <img src={jean} className="card-img-top" alt="hohoho grey beanie" />
+          <img
+            src={jean}
+            className="card-img-top"
+            alt="black jean wristlet/keyfobs with a variety of hardware"
+          />
           <div className="card-body">
             <h4 className="card-title"> Jean KeyFob </h4>
             <p className="card-text">

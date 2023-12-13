@@ -19,35 +19,35 @@ function Keychains() {
                 <img
                   src={thumbnail}
                   class="d-block w-100"
-                  alt="keychain thumbnail"
+                  alt="keychain tassels in assorted colours"
                 />
               </div>
               <div className="carousel-item">
                 <img
                   src={keychain1}
                   className="d-block w-100"
-                  alt="list of keychain tassels"
+                  alt="variety of kechain tassels in brown shades"
                 />
               </div>
               <div className="carousel-item">
                 <img
                   src={keychain2}
                   className="d-block w-100"
-                  alt="list of keychain tassels"
+                  alt="variety of keychain tassels in colourful shades (blue, red, pink, yellow)"
                 />
               </div>
               <div className="carousel-item">
                 <img
                   src={keychain3}
                   className="d-block w-100"
-                  alt="list of keychain tassels"
+                  alt="variety of keychain tassels in yellow and white shades"
                 />
               </div>
               <div className="carousel-item">
                 <img
                   src={keychain4}
                   className="d-block w-100"
-                  alt="list of keychain tassels"
+                  alt="variety of multi coloured (three colour) keychain tassels in a variety of shades"
                 />
               </div>
             </div>

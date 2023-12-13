@@ -11,7 +11,11 @@ function Scrunchies() {
       <h2>Scrunchies</h2>
       <div className="scrunchies">
         <div className="card">
-          <img src={ravyn} className="card-img-top" alt="hohoho grey beanie" />
+          <img
+            src={ravyn}
+            className="card-img-top"
+            alt="black velvet scrunchie hair tie"
+          />
           <div className="card-body">
             <h4 className="card-title"> Ravyn Scrunchie</h4>
             <p className="card-text">
@@ -27,7 +31,7 @@ function Scrunchies() {
           <img
             src={scarlet}
             className="card-img-top"
-            alt="hohoho grey beanie"
+            alt="red velvet scrunchie hair tie"
           />
           <div className="card-body">
             <h4 className="card-title"> Scarlet Scrunchie</h4>
@@ -41,7 +45,11 @@ function Scrunchies() {
           </div>
         </div>
         <div className="card">
-          <img src={split} className="card-img-top" alt="hohoho grey beanie" />
+          <img
+            src={split}
+            className="card-img-top"
+            alt="black and red (half and half) velvet scrunchie hair tiee"
+          />
           <div className="card-body">
             <h4 className="card-title"> Split Scrunchie </h4>
             <p className="card-text">
@@ -57,7 +65,7 @@ function Scrunchies() {
           <img
             src={tapestry}
             className="card-img-top"
-            alt="hohoho grey beanie"
+            alt="black and white patterned scrunchie hair tie"
           />
           <div className="card-body">
             <h4 className="card-title"> Tapestry Scrunchie</h4>
@@ -72,7 +80,11 @@ function Scrunchies() {
           </div>
         </div>
         <div className="card">
-          <img src={rose} className="card-img-top" alt="hohoho grey beanie" />
+          <img
+            src={rose}
+            className="card-img-top"
+            alt="pink satin/silk scrunchie hair tie"
+          />
           <div className="card-body">
             <h4 className="card-title"> Rose Scrunchie </h4>
             <p className="card-text">

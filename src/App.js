@@ -22,37 +22,49 @@ function App() {
       </header>
       <section className="product-categories">
         <a className="product" href="#hats">
-          <img src={hatHeaderImg} alt="beanie" />{" "}
+          <img
+            src={hatHeaderImg}
+            alt="grey beanie with HOHOHO written in red"
+          />{" "}
           <div className="img-overlay">
             <h3>Hats</h3>
           </div>
         </a>
         <a className="product" href="#coasters">
-          <img src={coasterHeaderImg} alt="beanie" />{" "}
+          <img
+            src={coasterHeaderImg}
+            alt="Red white and pink assorted fluffy coasters"
+          />{" "}
           <div className="img-overlay">
             <h3>Coaster</h3>
           </div>
         </a>
         <a className="product" href="#stickers">
-          <img src={stickerHeaderImg} alt="beanie" />{" "}
+          <img
+            src={stickerHeaderImg}
+            alt="circle sticker with santa vibes written in Red, green, and white"
+          />{" "}
           <div className="img-overlay">
             <h3>Stickers</h3>
           </div>
         </a>
         <a className="product" href="#fobs">
-          <img src={keyfobHeaderImg} alt="beanie" />{" "}
+          <img src={keyfobHeaderImg} alt="bundle of keyfobs, black velvet" />{" "}
           <div className="img-overlay">
             <h3>Key Fobs</h3>
           </div>
         </a>
         <a className="product" href="#keychains">
-          <img src={keychainHeaderImg} alt="beanie" />{" "}
+          <img
+            src={keychainHeaderImg}
+            alt="keychain tassels in assorted colours"
+          />{" "}
           <div className="img-overlay">
             <h3>Keychains</h3>
           </div>
         </a>
         <a className="product" href="#scrunchies">
-          <img src={scrunchieHeaderImg} alt="beanie" />{" "}
+          <img src={scrunchieHeaderImg} alt="red velvet scrunchie hair tie" />{" "}
           <div className="img-overlay">
             <h3>Scrunchies</h3>
           </div>

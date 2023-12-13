@@ -10,7 +10,11 @@ function Hats() {
       <h2>Hats</h2>
       <div className="hats">
         <div className="card">
-          <img src={hohoho} className="card-img-top" alt="hohoho grey beanie" />
+          <img
+            src={hohoho}
+            className="card-img-top"
+            alt="grey beanie with red writting hohoho "
+          />
           <div className="card-body">
             <h4 className="card-title"> HOHOHO Beanie</h4>
             <p className="card-text">
@@ -23,7 +27,11 @@ function Hats() {
           </div>
         </div>
         <div className="card">
-          <img src={svibes} className="card-img-top" alt="hohoho grey beanie" />
+          <img
+            src={svibes}
+            className="card-img-top"
+            alt="dark grey beanie with circular santa vibes logo (red, white, green) "
+          />
           <div className="card-body">
             <h4 className="card-title"> Santa Vibes Beanie</h4>
             <p className="card-text">
@@ -36,7 +44,11 @@ function Hats() {
           </div>
         </div>
         <div className="card">
-          <img src={car} className="card-img-top" alt="hohoho grey beanie" />
+          <img
+            src={car}
+            className="card-img-top"
+            alt="black beanies with one green and one orange car with tree on top"
+          />
           <div className="card-body">
             <h4 className="card-title"> Car Beanie</h4>
             <p className="card-text">
@@ -52,7 +64,11 @@ function Hats() {
           </div>
         </div>
         <div className="card">
-          <img src={dnd} className="card-img-top" alt="hohoho grey beanie" />
+          <img
+            src={dnd}
+            className="card-img-top"
+            alt="pink ball cap with do not disturb written on front"
+          />
           <div className="card-body">
             <h4 className="card-title"> "do not disturb" Cap</h4>
             <p className="card-text">
