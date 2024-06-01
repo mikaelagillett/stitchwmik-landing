@@ -120,9 +120,10 @@ function Keychains() {
               >
                 Page 4
               </a>
+              <br /> multi:<s>$5</s>$2
+              <br /> single:<s>$4</s>$1
             </p>
             <KeychainSelect />
-
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
             </a>

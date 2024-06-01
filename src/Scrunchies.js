@@ -20,7 +20,7 @@ function Scrunchies() {
             <h4 className="card-title"> Ravyn Scrunchie</h4>
             <p className="card-text">
               {" "}
-              Inventory: 1 <br /> $8
+              Inventory: 1 <br /> <s>$10</s>$5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -37,7 +37,7 @@ function Scrunchies() {
             <h4 className="card-title"> Scarlet Scrunchie</h4>
             <p className="card-text">
               {" "}
-              Inventory: 2 <br /> $8
+              Inventory: 2 <br /> <s>$10</s>$5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -54,7 +54,7 @@ function Scrunchies() {
             <h4 className="card-title"> Split Scrunchie </h4>
             <p className="card-text">
               {" "}
-              Inventory: 2 <br /> $8
+              Inventory: 2 <br /> <s>$10</s>$5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -72,7 +72,7 @@ function Scrunchies() {
             <p className="card-text">
               {" "}
               Inventory: 3
-              <br /> $5
+              <br /> <s>$8</s>$3
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -89,7 +89,7 @@ function Scrunchies() {
             <h4 className="card-title"> Rose Scrunchie </h4>
             <p className="card-text">
               {" "}
-              Inventory: 2 <br /> $5
+              Inventory: 2 <br /> <s>$8</s>$3
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase

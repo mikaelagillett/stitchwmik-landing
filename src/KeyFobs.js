@@ -19,7 +19,7 @@ function KeyFobs() {
             <h4 className="card-title"> Ravyn Scrunchie KeyFob</h4>
             <p className="card-text">
               {" "}
-              Inventory: 6 <br /> $10
+              Inventory: 6 <br /> <s>$20</s>$8
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -36,7 +36,7 @@ function KeyFobs() {
             <h4 className="card-title"> Scarlet Scrunchie KeyFob</h4>
             <p className="card-text">
               {" "}
-              Inventory: 1 <br /> $10
+              Inventory: 1 <br /> <s>$20</s>$8
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -54,7 +54,7 @@ function KeyFobs() {
             <p className="card-text">
               {" "}
               Inventory: 2
-              <br /> $8
+              <br /> <s>$15</s>$5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -71,7 +71,7 @@ function KeyFobs() {
             <h4 className="card-title"> Jean KeyFob </h4>
             <p className="card-text">
               {" "}
-              Inventory: 7 <br /> $8
+              Inventory: 7 <br /> <s>$15</s>$5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase

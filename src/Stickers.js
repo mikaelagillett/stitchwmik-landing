@@ -30,7 +30,7 @@ function Stickers() {
             <h4 className="card-title"> Grinch</h4>
             <p className="card-text">
               {" "}
-              Inventory: 14 <br /> $2.50
+              Inventory: 14 <br /> <s>$4</s> $1
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -47,7 +47,7 @@ function Stickers() {
             <h4 className="card-title"> Cola Bottle Sticker</h4>
             <p className="card-text">
               {" "}
-              Inventory: 13 <br /> $2.50
+              Inventory: 13 <br /> <s>$4</s>$1
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -65,7 +65,7 @@ function Stickers() {
             <p className="card-text">
               {" "}
               Inventory: 19
-              <br /> $2.50
+              <br /> <s>$4</s> $1
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -82,7 +82,7 @@ function Stickers() {
             <h4 className="card-title"> HOHOHO Sticker</h4>
             <p className="card-text">
               {" "}
-              Inventory: 22 <br /> $2.50
+              Inventory: 22 <br /> <s>$4</s> $1
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -99,7 +99,7 @@ function Stickers() {
             <h4 className="card-title"> Car Sticker</h4>
             <p className="card-text">
               {" "}
-              Inventory: 14 <br /> $2
+              Inventory: 14 <br /> <s>$3.5</s> $0.5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -116,7 +116,7 @@ function Stickers() {
             <h4 className="card-title"> Santa Vibes Sticker</h4>
             <p className="card-text">
               {" "}
-              Inventory: 12 <br /> $2
+              Inventory: 12 <br /> <s>$3.5</s> $0.5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -133,7 +133,7 @@ function Stickers() {
             <h4 className="card-title"> Merry Christmas Sticker</h4>
             <p className="card-text">
               {" "}
-              Inventory: 12 <br /> $2
+              Inventory: 12 <br /> <s>$3.5</s> $0.5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -150,7 +150,7 @@ function Stickers() {
             <h4 className="card-title"> Berries and Cream Sticker</h4>
             <p className="card-text">
               {" "}
-              Inventory: 15 <br /> $1
+              Inventory: 15 <br /> <s>$4</s> $0.5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -167,7 +167,7 @@ function Stickers() {
             <h4 className="card-title"> "do not disturb" Sticker</h4>
             <p className="card-text">
               {" "}
-              Inventory: 10 <br /> $2.50
+              Inventory: 10 <br /> <s>$5</s> $1.5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -187,7 +187,7 @@ function Stickers() {
             </h4>
             <p className="card-text">
               {" "}
-              Inventory: 3 <br /> $2
+              Inventory: 3 <br /> <s>$4</s> $1
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -207,7 +207,7 @@ function Stickers() {
             </h4>
             <p className="card-text">
               {" "}
-              Inventory: 3 <br /> $2
+              Inventory: 3 <br /> <s>$4</s> $1
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -227,7 +227,7 @@ function Stickers() {
             </h4>
             <p className="card-text">
               {" "}
-              Inventory: 3 <br /> $2
+              Inventory: 3 <br /> <s>$4</s> $1
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -244,7 +244,7 @@ function Stickers() {
             <h4 className="card-title"> Sushi Restaurant Sticker</h4>
             <p className="card-text">
               {" "}
-              Inventory: 3 <br /> $3
+              Inventory: 3 <br /> <s>$8</s> $2
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -261,7 +261,7 @@ function Stickers() {
             <h4 className="card-title"> Harry's House Sticker</h4>
             <p className="card-text">
               {" "}
-              Inventory: 3 <br /> $3
+              Inventory: 3 <br /> <s>$8</s> $2
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase

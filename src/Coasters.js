@@ -26,7 +26,7 @@ function Coasters() {
             </h4>
             <p className="card-text">
               {" "}
-              Inventory: 1 <br /> $10
+              Inventory: 1 <br /> <s>$15</s>$10
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -47,7 +47,7 @@ function Coasters() {
             </h4>
             <p className="card-text">
               {" "}
-              Inventory: 4 <br /> $10
+              Inventory: 4 <br /> <s>$15</s> $10
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -65,7 +65,7 @@ function Coasters() {
             <p className="card-text">
               {" "}
               Inventory: 2
-              <br /> $5
+              <br /> <s>$10</s>$5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -82,7 +82,7 @@ function Coasters() {
             <h4 className="card-title"> White Smiley Car Coaster</h4>
             <p className="card-text">
               {" "}
-              Inventory: 1 <br /> $5
+              Inventory: 1 <br /> <s>$10</s>$5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -99,7 +99,7 @@ function Coasters() {
             <h4 className="card-title"> Pumpkin Car Coaster</h4>
             <p className="card-text">
               {" "}
-              Inventory: 1 <br /> $3
+              Inventory: 1 <br /> <s>$8</s>$3
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -116,7 +116,7 @@ function Coasters() {
             <h4 className="card-title"> Orange Smiley Car Coaster</h4>
             <p className="card-text">
               {" "}
-              Inventory: 1 <br /> $3
+              Inventory: 1 <br /> <s>$8</s>$3
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
