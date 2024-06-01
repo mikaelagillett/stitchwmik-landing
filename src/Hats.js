@@ -19,7 +19,7 @@ function Hats() {
             <h4 className="card-title"> HOHOHO Beanie</h4>
             <p className="card-text">
               {" "}
-              Inventory: 5 <br /> $10
+              Inventory: 5 <br /> <s>$15</s>$5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -36,7 +36,7 @@ function Hats() {
             <h4 className="card-title"> Santa Vibes Beanie</h4>
             <p className="card-text">
               {" "}
-              Inventory: 4 <br /> $10
+              Inventory: 4 <br /> <s>$15</s>$5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -56,7 +56,7 @@ function Hats() {
               Inventory:
               <span className="green">1</span>,{" "}
               <span className="orange">2</span>
-              <br /> $10
+              <br /> <s>$15</s>$5
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
@@ -73,7 +73,7 @@ function Hats() {
             <h4 className="card-title"> "do not disturb" Cap</h4>
             <p className="card-text">
               {" "}
-              Inventory: 5 <br /> $10
+              Inventory: 5 <br /> <s>$20</s>$8
             </p>
             <a href="#contact" className="btn btn-dark">
               DM to Purchase
